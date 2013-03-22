@@ -1,6 +1,6 @@
 from font import Font, FontLoader
 from textdrawer import TextDrawer
-import sys 
+import sys
 
 def main():
 	text = getText()
